@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_x_xs_11_pro___1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__iphone_x_xs_11_pro___1_ek2_color">#fcfcfc</color>
+	<color name="_rectangle_2_color">#120af5</color>
+	<color name="se_connecter_color">#fcfcfc</color>
+	<color name="mpako_color">#1a1919</color>
+	<color name="rl_color">#fd0405</color>
+	<color name="mpakorl__version_1_0_color">#2b2323</color>
+	<color name="_bg__iphone_x_xs_11_pro___2_ek2_color">#ffffff</color>
+	<color name="rectangle_7_color">#fbfbfb</color>
+	<color name="rectangle_3_color">#eff1ee</color>
+	<color name="notifications_color">#4d4b4b</color>
+	<color name="n__color">#707070</color>
+	<color name="rectangle_24_color">#707070</color>
+</resources>

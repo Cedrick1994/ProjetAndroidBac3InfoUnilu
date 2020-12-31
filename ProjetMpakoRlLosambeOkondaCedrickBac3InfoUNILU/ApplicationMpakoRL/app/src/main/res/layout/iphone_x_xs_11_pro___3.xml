@@ -1,0 +1,352 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_x_xs_11_pro___1
+	 *	@date 		0
+	 *	@title 		iPhone X/XS/11 Pro  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_x_xs_11_pro___3" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_x_xs_11_pro___3_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__iphone_x_xs_11_pro___3_ek2"
+					android:background="@drawable/_bg__iphone_x_xs_11_pro___3_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+
+				<RelativeLayout android:id="@+id/grille_de_r_p_tition_4"
+					android:layout_marginTop="181dp"
+					android:layout_marginStart="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/__ek3"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_7_ek1"
+							android:background="@drawable/rectangle_7_ek1_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="383dp"
+							android:layout_height="588dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/_trac__1_ek1"
+					android:src="@drawable/_trac__1_ek1"
+					android:contentDescription="_trac__1_ek1"
+					 android:layout_marginLeft="30dp"
+					 android:layout_marginStart="30dp"
+					android:layout_marginTop="36dp"
+					android:layout_width="14.566711425781dp"
+					android:layout_height="26.305088043213dp" />
+
+				<ImageView android:id="@+id/ios7_person"
+					android:src="@drawable/ios7_person"
+					android:contentDescription="ios7_person"
+					 android:layout_marginLeft="23dp"
+					 android:layout_marginStart="23dp"
+					android:layout_marginTop="89dp"
+					android:layout_width="83dp"
+					android:layout_height="83dp" />
+
+				<TextView android:id="@+id/nom_client"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="29sp"
+					android:textColor="@color/mpakorl__version_1_0_color"
+					android:layout_marginLeft="101dp"
+					android:layout_marginTop="96dp"
+					android:layout_width="150dp"
+					android:layout_height="44dp"
+					android:text="@string/nom_client_string"
+					 />
+
+				<View android:id="@+id/rectangle_5"
+					android:background="@drawable/rectangle_5_shape"
+					 android:layout_marginLeft="101dp"
+					 android:layout_marginStart="101dp"
+					android:layout_marginTop="131dp"
+					android:layout_width="77dp"
+					android:layout_height="21dp" />
+
+				<TextView android:id="@+id/_voir_profil"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="13sp"
+					android:textColor="@color/se_connecter_color"
+					android:layout_marginLeft="111dp"
+					android:layout_marginTop="131dp"
+					android:layout_width="63dp"
+					android:layout_height="20dp"
+					android:text="@string/_voir_profil_string"
+					 />
+
+				<TextView android:id="@+id/notifications"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="16sp"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="32dp"
+					android:layout_marginTop="187dp"
+					android:layout_width="98dp"
+					android:layout_height="24dp"
+					android:text="@string/notifications_string"
+					 />
+
+				<ImageView android:id="@+id/ligne_3"
+					android:src="@drawable/ligne_3"
+					android:contentDescription="ligne_3"
+					 android:layout_marginLeft="32dp"
+					 android:layout_marginStart="32dp"
+					android:layout_marginTop="211dp"
+					android:layout_width="313dp"
+					android:layout_height="1dp" />
+
+				<View android:id="@+id/rectangle_6"
+					android:background="@drawable/rectangle_6_shape"
+					 android:layout_marginLeft="31dp"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="236dp"
+					android:layout_width="315dp"
+					android:layout_height="59dp" />
+
+				<TextView android:id="@+id/mpakorl__version_1_0_ek2"
+					android:fontFamily="Segoe UI"
+					android:textColor="@color/mpakorl__version_1_0_color"
+					android:layout_marginLeft="144dp"
+					android:layout_marginTop="769dp"
+					android:layout_width="93dp"
+					android:layout_height="16dp"
+					android:text="@string/mpakorl__version_1_0_ek2_string"
+					 />
+
+				<TextView android:id="@+id/lundi_01_janvier_2021_10_00"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="126dp"
+					android:layout_marginTop="218dp"
+					android:layout_width="129dp"
+					android:layout_height="16dp"
+					android:text="@string/lundi_01_janvier_2021_10_00_string"
+					 />
+
+				<TextView android:id="@+id/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="41dp"
+					android:layout_marginTop="245dp"
+					android:layout_width="276dp"
+					android:layout_height="42.5dp"
+					android:text="@string/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_string"
+					 />
+
+				<View android:id="@+id/rectangle_8"
+					android:background="@drawable/rectangle_8_shape"
+					 android:layout_marginLeft="31dp"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="315dp"
+					android:layout_width="315dp"
+					android:layout_height="59dp" />
+
+				<TextView android:id="@+id/mardi_03_f_vrier_2021_11_10"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="127dp"
+					android:layout_marginTop="297dp"
+					android:layout_width="128dp"
+					android:layout_height="16dp"
+					android:text="@string/mardi_03_f_vrier_2021_11_10_string"
+					 />
+
+				<TextView android:id="@+id/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek1"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="41dp"
+					android:layout_marginTop="324dp"
+					android:layout_width="276dp"
+					android:layout_height="42.5dp"
+					android:text="@string/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek1_string"
+					 />
+
+				<View android:id="@+id/rectangle_9"
+					android:background="@drawable/rectangle_9_shape"
+					 android:layout_marginLeft="31dp"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="394dp"
+					android:layout_width="315dp"
+					android:layout_height="59dp" />
+
+				<TextView android:id="@+id/vendredi_13_mars_2021_09_23"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="122dp"
+					android:layout_marginTop="376dp"
+					android:layout_width="137dp"
+					android:layout_height="16dp"
+					android:text="@string/vendredi_13_mars_2021_09_23_string"
+					 />
+
+				<TextView android:id="@+id/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek2"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="41dp"
+					android:layout_marginTop="403dp"
+					android:layout_width="276dp"
+					android:layout_height="42.5dp"
+					android:text="@string/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek2_string"
+					 />
+
+				<View android:id="@+id/rectangle_10"
+					android:background="@drawable/rectangle_10_shape"
+					 android:layout_marginLeft="31dp"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="470dp"
+					android:layout_width="315dp"
+					android:layout_height="59dp" />
+
+				<TextView android:id="@+id/mercredi_02_avril_2021_14_15"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="124dp"
+					android:layout_marginTop="452dp"
+					android:layout_width="133dp"
+					android:layout_height="16dp"
+					android:text="@string/mercredi_02_avril_2021_14_15_string"
+					 />
+
+				<TextView android:id="@+id/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek3"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="41dp"
+					android:layout_marginTop="479dp"
+					android:layout_width="276dp"
+					android:layout_height="42.5dp"
+					android:text="@string/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek3_string"
+					 />
+
+				<View android:id="@+id/rectangle_11"
+					android:background="@drawable/rectangle_11_shape"
+					 android:layout_marginLeft="31dp"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="546dp"
+					android:layout_width="315dp"
+					android:layout_height="59dp" />
+
+				<TextView android:id="@+id/samedi_16_mai_2021_11_07"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="121dp"
+					android:layout_marginTop="528dp"
+					android:layout_width="121dp"
+					android:layout_height="16dp"
+					android:text="@string/samedi_16_mai_2021_11_07_string"
+					 />
+
+				<TextView android:id="@+id/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek4"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="41dp"
+					android:layout_marginTop="555dp"
+					android:layout_width="276dp"
+					android:layout_height="42.5dp"
+					android:text="@string/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek4_string"
+					 />
+
+				<View android:id="@+id/rectangle_12"
+					android:background="@drawable/rectangle_12_shape"
+					 android:layout_marginLeft="31dp"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="625dp"
+					android:layout_width="315dp"
+					android:layout_height="59dp" />
+
+				<TextView android:id="@+id/lundi_04_juin_2021_11_08"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="124dp"
+					android:layout_marginTop="607dp"
+					android:layout_width="116dp"
+					android:layout_height="16dp"
+					android:text="@string/lundi_04_juin_2021_11_08_string"
+					 />
+
+				<TextView android:id="@+id/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek5"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textColor="@color/notifications_color"
+					android:layout_marginLeft="41dp"
+					android:layout_marginTop="634dp"
+					android:layout_width="276dp"
+					android:layout_height="42.5dp"
+					android:text="@string/cher_client__votre_versement_de_40_000__pour_le_mois_de_javier_2021_dans_la_banque_centrale_du_congo_bcdc___bien__t__effectu____la_direction_centrale_de_la_drhkat_ek5_string"
+					 />
+
+				<TextView android:id="@+id/compte_client"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="28sp"
+					android:textColor="@color/mpakorl__version_1_0_color"
+					android:layout_marginLeft="101dp"
+					android:layout_marginTop="26dp"
+					android:layout_width="182dp"
+					android:layout_height="43dp"
+					android:text="@string/compte_client_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

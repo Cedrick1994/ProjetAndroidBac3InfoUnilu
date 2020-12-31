@@ -1,0 +1,160 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_x_xs_11_pro___1
+	 *	@date 		0
+	 *	@title 		iPhone X/XS/11 Pro  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_x_xs_11_pro___1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_x_xs_11_pro___1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__iphone_x_xs_11_pro___1_ek2"
+					android:background="@drawable/_bg__iphone_x_xs_11_pro___1_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="812dp" />
+
+				<ImageView android:id="@+id/encadrement_loyers"
+					android:src="@drawable/encadrement_loyers"
+					android:contentDescription="encadrement_loyers"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="-88dp"
+					android:layout_width="375dp"
+					android:layout_height="548dp" />
+
+				<View android:id="@+id/_rectangle_2"
+					android:background="@drawable/_rectangle_2_shape"
+					 android:alpha="0.8706"
+					 android:layout_marginLeft="44dp"
+					 android:layout_marginStart="44dp"
+					android:layout_marginTop="507dp"
+					android:layout_width="290dp"
+					android:layout_height="58dp" />
+
+				<TextView android:id="@+id/se_connecter"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="36sp"
+					android:textColor="@color/se_connecter_color"
+					android:layout_marginLeft="81dp"
+					android:layout_marginTop="507dp"
+					android:layout_width="215dp"
+					android:layout_height="55dp"
+					android:text="@string/se_connecter_string"
+					 />
+
+				<TextView android:id="@+id/mpako"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="50sp"
+					android:textColor="@color/mpako_color"
+					android:layout_marginLeft="94dp"
+					android:layout_marginTop="406dp"
+					android:layout_width="168dp"
+					android:layout_height="77dp"
+					android:text="@string/mpako_string"
+					 />
+
+				<TextView android:id="@+id/rl"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="23sp"
+					android:textColor="@color/rl_color"
+					android:layout_marginLeft="255dp"
+					android:layout_marginTop="424dp"
+					android:layout_width="32dp"
+					android:layout_height="36dp"
+					android:text="@string/rl_string"
+					 />
+
+				<TextView android:id="@+id/mpakorl_est_une_application_mobile_android_mis_en_place_pour_mettre_en_relation_les_clients__locataire_et_bailleur__et_le_bureau_de_la_drhkat_"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="12sp"
+					android:textColor="@color/mpako_color"
+					android:layout_marginLeft="28dp"
+					android:layout_marginTop="605dp"
+					android:layout_width="316dp"
+					android:layout_height="50dp"
+					android:text="@string/mpakorl_est_une_application_mobile_android_mis_en_place_pour_mettre_en_relation_les_clients__locataire_et_bailleur__et_le_bureau_de_la_drhkat__string"
+					 />
+
+				<TextView android:id="@+id/mpako_ek1"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="50sp"
+					android:textColor="@color/mpako_color"
+					android:layout_marginLeft="94dp"
+					android:layout_marginTop="406dp"
+					android:layout_width="168dp"
+					android:layout_height="77dp"
+					android:text="@string/mpako_ek1_string"
+					 />
+
+				<TextView android:id="@+id/home"
+					android:fontFamily="Segoe UI"
+					android:textStyle="bold"
+					android:textSize="33sp"
+					android:textColor="@color/mpako_color"
+					android:layout_marginLeft="34dp"
+					android:layout_marginTop="61dp"
+					android:layout_width="99dp"
+					android:layout_height="51dp"
+					android:text="@string/home_string"
+					 />
+
+				<ImageView android:id="@+id/ligne_1"
+					android:src="@drawable/ligne_1"
+					android:contentDescription="ligne_1"
+					 android:layout_marginLeft="35dp"
+					 android:layout_marginStart="35dp"
+					android:layout_marginTop="105dp"
+					android:layout_width="94dp"
+					android:layout_height="2dp" />
+
+				<TextView android:id="@+id/mpakorl__version_1_0"
+					android:fontFamily="Segoe UI"
+					android:textColor="@color/mpakorl__version_1_0_color"
+					android:layout_marginLeft="144dp"
+					android:layout_marginTop="769dp"
+					android:layout_width="93dp"
+					android:layout_height="16dp"
+					android:text="@string/mpakorl__version_1_0_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
